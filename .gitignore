@@ -6,3 +6,4 @@ mlflow.db
 data/loans_raw.csv
 .venv/
 venv/
+.DS_Store
